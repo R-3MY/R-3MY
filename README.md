@@ -5,8 +5,8 @@ This is the place where I opensource stuff and break things 🤣
 - 🔭 I’m currently working on something really cool 😉
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on more open source projects.
-- 💬 Ask me anything [here](https://github.com/vibhorchaudhary/vibhorchaudhary/issues) related to <b>Android application Development, Android Custom Operating System Development, Kotlin, Java, iOS Development, Swift, Javascript, Google App Script & Spring Boot, Security, Data JPA.</b>
-- 📫 How to reach me: [@vibhorchaudhary][linkedin] or say 👋 on Email at [Vibhor Chaudhary](mailto:vibhorchaudhary@yahoo.com)
+- 💬 Ask me anything [here](https://remyboulay.me/#contact).
+- 📫 How to reach me: Email at [Rémy BOULAY](mailto:remy41.boulay@gmail.com)
 - ⚡ Fun fact: I ❤️ 🐶s & ❤️ 🏍️
 
 ### Connect with me:
