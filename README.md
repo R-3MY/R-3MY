@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at MotorsGate Orléans 💻📍
 - 🌱 I’m currently learning everything related to web and mobile development 📱👨‍💻
-- 💬 Ask me anything [here](https://remyboulay.me/#contact) or [here](mailto:remy.boulay@supinfo.com) ❔📫
+- 💬 Ask me anything [via my portfolio](https://remyboulay.me/#contact) or [via email](mailto:remy.boulay@supinfo.com) ❔📫
 
 ### Connect with me:
 
