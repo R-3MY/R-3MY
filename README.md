@@ -38,11 +38,10 @@
 ### Web :
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-SQL
-MongoDB
-PHP
-HTML
-CSS
+<img align="left" alt="React Native" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/mysql.png" />
+<img align="left" alt="React Native" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/mongodb.png" />
+<img align="left" alt="React Native" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/html.png" />
+<img align="left" alt="React Native" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/css.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
