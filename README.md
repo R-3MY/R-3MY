@@ -39,17 +39,21 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="React Native" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/mysql.png" />
-<img align="left" alt="React Native" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/mongodb.png" />
+<img align="left" alt="React Native" height="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/mongodb.png" />
 <img align="left" alt="React Native" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/html.png" />
 <img align="left" alt="React Native" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/css.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
+<br />
+
 ### OS :
 <img align="left" alt="React Native" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/linux.png" />
 <img align="left" alt="React Native" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/windows.png" />
 <img align="left" alt="React Native" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/openwrt.png" />
-<br />
+
+
+
 
 [website]: https://remyboulay.me
 [github]: https://github.com/R-3MY
