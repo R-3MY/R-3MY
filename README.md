@@ -46,11 +46,10 @@ CSS
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-OS :
-Linux 
-Windows
-Openwrt
-<br />
+### OS :
+<img align="left" alt="React Native" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/linux.png" />
+<img align="left" alt="React Native" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/windows.png" />
+<img align="left" alt="React Native" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/openwrt.png" />
 <br />
 
 [website]: https://remyboulay.me
