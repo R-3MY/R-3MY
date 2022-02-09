@@ -2,33 +2,31 @@
 
 - 🔭 I’m currently working at MotorsGate Orléans 💻📍
 - 🌱 I’m currently learning everything related to web and mobile development 📱👨‍💻
-- 💬 Ask me anything [via my portfolio](https://remyboulay.me/#contact) or [via email](mailto:remy.boulay@supinfo.com) ❔📫
+- 💬 Ask me anything [on my portfolio](https://remyboulay.me/#contact) or [via email](mailto:remy.boulay@supinfo.com) ❔📫
 
 ### Connect with me:
 
-[<img align="left" alt="R-3MY | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="R-3MY | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="R-3MY | LinkedIn" width="22px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/linkedin.png" />][linkedin]
+[<img align="left" alt="R-3MY | GitHub" width="22px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/github.png" />][github]
 
 <br />
 
 ### Tools:
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
+<img align="left" alt="AWS" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/aws.png" />
 <img align="left" alt="AZURE" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/azure.png" />
 <img align="left" alt="AZURE" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/docker.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="XCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/vscode.png" />
+<img align="left" alt="XCode" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/xcode.png" />
+<img align="left" alt="Git" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/git.png" />
 
 <br />
 
 ### Mobile :
 
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
-<img align="left" alt="iOS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
-<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
+<img align="left" alt="Android" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/android.png" />
+<img align="left" alt="Kotlin" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/kotlin.png" />
+<img align="left" alt="iOS" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/ios.png" />
+<img align="left" alt="Swift" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/swift.png" />
 <img align="left" alt="Dart" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/dart.png" />
 <img align="left" alt="Flutter" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/flutter.png" />
 <img align="left" alt="React Native" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/react.png" />
@@ -36,14 +34,14 @@
 <br />
 
 ### Web :
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/js.png" />
+<img align="left" alt="React" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/react.png" />
 <img align="left" alt="React Native" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/mysql.png" />
 <img align="left" alt="React Native" height="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/mongodb.png" />
 <img align="left" alt="React Native" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/html.png" />
 <img align="left" alt="React Native" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/css.png" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/postgresql.png" />
+<img align="left" alt="Node.js" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/node.png" />
 
 <br />
 
