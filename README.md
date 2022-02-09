@@ -13,8 +13,8 @@
 
 ### Tools:
 <img align="left" alt="AWS" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/aws.png" />
-<img align="left" alt="AZURE" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/azure.png" />
-<img align="left" alt="AZURE" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/docker.png" />
+<img align="left" alt="Azure" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/azure.png" />
+<img align="left" alt="Docker" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/docker.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/vscode.png" />
 <img align="left" alt="XCode" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/xcode.png" />
 <img align="left" alt="Git" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/git.png" />
@@ -34,14 +34,14 @@
 <br />
 
 ### Web :
+<img align="left" alt="HTML" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/html.png" />
+<img align="left" alt="CSS" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/js.png" />
-<img align="left" alt="React" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/react.png" />
-<img align="left" alt="React Native" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/mysql.png" />
-<img align="left" alt="React Native" height="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/mongodb.png" />
-<img align="left" alt="React Native" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/html.png" />
-<img align="left" alt="React Native" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/css.png" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/postgresql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/node.png" />
+<img align="left" alt="React" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/react.png" />
+<img align="left" alt="MySQL" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/mysql.png" />
+<img align="left" alt="MongoDB" height="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/mongodb.png" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://github.com/R-3MY/R-3MY/blob/main/icons/postgresql.png" />
 
 <br />
 
