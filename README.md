@@ -6,49 +6,49 @@
 
 ### Connect with me:
 
-[<img align="left" alt="R-3MY | LinkedIn" width="22px" src="https://gitlab.com/R-3MY/R-3MY/icons/linkedin.png" />][linkedin]
-[<img align="left" alt="R-3MY | gitlab" width="22px" src="https://gitlab.com/R-3MY/R-3MY/icons/github.png" />][gitlab]
+[<img align="left" alt="R-3MY | LinkedIn" width="22px" src="https://gitlab.com/R-3MY/R-3MY/-/blob/master/icons/linkedin.png" />][linkedin]
+[<img align="left" alt="R-3MY | gitlab" width="22px" src="https://gitlab.com/R-3MY/R-3MY/-/blob/master/icons/github.png" />][gitlab]
 
 <br />
 
 ### Tools:
-<img align="left" alt="AWS" width="26px" src="https://gitlab.com/R-3MY/R-3MY/icons/aws.png" />
-<img align="left" alt="Azure" width="26px" src="https://gitlab.com/R-3MY/R-3MY/icons/azure.png" />
-<img align="left" alt="Docker" width="26px" src="https://gitlab.com/R-3MY/R-3MY/icons/docker.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://gitlab.com/R-3MY/R-3MY/icons/vscode.png" />
-<img align="left" alt="XCode" width="26px" src="https://gitlab.com/R-3MY/R-3MY/icons/xcode.png" />
-<img align="left" alt="Git" width="26px" src="https://gitlab.com/R-3MY/R-3MY/icons/git.png" />
+<img align="left" alt="AWS" width="26px" src="https://gitlab.com/R-3MY/R-3MY/-/blob/master/icons/aws.png" />
+<img align="left" alt="Azure" width="26px" src="https://gitlab.com/R-3MY/R-3MY/-/blob/master/icons/azure.png" />
+<img align="left" alt="Docker" width="26px" src="https://gitlab.com/R-3MY/R-3MY/-/blob/master/icons/docker.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://gitlab.com/R-3MY/R-3MY/-/blob/master/icons/vscode.png" />
+<img align="left" alt="XCode" width="26px" src="https://gitlab.com/R-3MY/R-3MY/-/blob/master/icons/xcode.png" />
+<img align="left" alt="Git" width="26px" src="https://gitlab.com/R-3MY/R-3MY/-/blob/master/icons/git.png" />
 
 <br />
 
 ### Mobile :
 
-<img align="left" alt="Android" width="26px" src="https://gitlab.com/R-3MY/R-3MY/icons/android.png" />
-<img align="left" alt="Kotlin" width="26px" src="https://gitlab.com/R-3MY/R-3MY/icons/kotlin.png" />
-<img align="left" alt="iOS" width="26px" src="https://gitlab.com/R-3MY/R-3MY/icons/ios.png" />
-<img align="left" alt="Swift" width="26px" src="https://gitlab.com/R-3MY/R-3MY/icons/swift.png" />
-<img align="left" alt="Dart" width="26px" src="https://gitlab.com/R-3MY/R-3MY/icons/dart.png" />
-<img align="left" alt="Flutter" width="26px" src="https://gitlab.com/R-3MY/R-3MY/icons/flutter.png" />
-<img align="left" alt="React Native" width="26px" src="https://gitlab.com/R-3MY/R-3MY/icons/react.png" />
+<img align="left" alt="Android" width="26px" src="https://gitlab.com/R-3MY/R-3MY/-/blob/master/icons/android.png" />
+<img align="left" alt="Kotlin" width="26px" src="https://gitlab.com/R-3MY/R-3MY/-/blob/master/icons/kotlin.png" />
+<img align="left" alt="iOS" width="26px" src="https://gitlab.com/R-3MY/R-3MY/-/blob/master/icons/ios.png" />
+<img align="left" alt="Swift" width="26px" src="https://gitlab.com/R-3MY/R-3MY/-/blob/master/icons/swift.png" />
+<img align="left" alt="Dart" width="26px" src="https://gitlab.com/R-3MY/R-3MY/-/blob/master/icons/dart.png" />
+<img align="left" alt="Flutter" width="26px" src="https://gitlab.com/R-3MY/R-3MY/-/blob/master/icons/flutter.png" />
+<img align="left" alt="React Native" width="26px" src="https://gitlab.com/R-3MY/R-3MY/-/blob/master/icons/react.png" />
 
 <br />
 
 ### Web :
-<img align="left" alt="HTML" width="26px" src="https://gitlab.com/R-3MY/R-3MY/icons/html.png" />
-<img align="left" alt="CSS" width="26px" src="https://gitlab.com/R-3MY/R-3MY/icons/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://gitlab.com/R-3MY/R-3MY/icons/js.png" />
-<img align="left" alt="Node.js" width="26px" src="https://gitlab.com/R-3MY/R-3MY/icons/node.png" />
-<img align="left" alt="React" width="26px" src="https://gitlab.com/R-3MY/R-3MY/icons/react.png" />
-<img align="left" alt="MySQL" width="26px" src="https://gitlab.com/R-3MY/R-3MY/icons/mysql.png" />
-<img align="left" alt="MongoDB" height="26px" src="https://gitlab.com/R-3MY/R-3MY/icons/mongodb.png" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://gitlab.com/R-3MY/R-3MY/icons/postgresql.png" />
+<img align="left" alt="HTML" width="26px" src="https://gitlab.com/R-3MY/R-3MY/-/blob/master/icons/html.png" />
+<img align="left" alt="CSS" width="26px" src="https://gitlab.com/R-3MY/R-3MY/-/blob/master/icons/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://gitlab.com/R-3MY/R-3MY/-/blob/master/icons/js.png" />
+<img align="left" alt="Node.js" width="26px" src="https://gitlab.com/R-3MY/R-3MY/-/blob/master/icons/node.png" />
+<img align="left" alt="React" width="26px" src="https://gitlab.com/R-3MY/R-3MY/-/blob/master/icons/react.png" />
+<img align="left" alt="MySQL" width="26px" src="https://gitlab.com/R-3MY/R-3MY/-/blob/master/icons/mysql.png" />
+<img align="left" alt="MongoDB" height="26px" src="https://gitlab.com/R-3MY/R-3MY/-/blob/master/icons/mongodb.png" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://gitlab.com/R-3MY/R-3MY/-/blob/master/icons/postgresql.png" />
 
 <br />
 
 ### OS :
-<img align="left" alt="React Native" width="26px" src="https://gitlab.com/R-3MY/R-3MY/icons/linux.png" />
-<img align="left" alt="React Native" width="26px" src="https://gitlab.com/R-3MY/R-3MY/icons/windows.png" />
-<img align="left" alt="React Native" width="26px" src="https://gitlab.com/R-3MY/R-3MY/icons/openwrt.png" />
+<img align="left" alt="React Native" width="26px" src="https://gitlab.com/R-3MY/R-3MY/-/blob/master/icons/linux.png" />
+<img align="left" alt="React Native" width="26px" src="https://gitlab.com/R-3MY/R-3MY/-/blob/master/icons/windows.png" />
+<img align="left" alt="React Native" width="26px" src="https://gitlab.com/R-3MY/R-3MY/-/blob/master/icons/openwrt.png" />
 
 
 
