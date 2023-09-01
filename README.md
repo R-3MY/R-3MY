@@ -6,14 +6,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="R-3MY | LinkedIn" width="22px" src="https://gitlab.com/R-3MY/R-3MY/-/raw/master/icons/linkedin.png" />][linkedin]
-[<img align="left" alt="R-3MY | gitlab" width="22px" src="https://gitlab.com/R-3MY/R-3MY/-/raw/master/icons/github.png" />][gitlab]
-
-<br />
+![linkedin](https://gitlab.com/R-3MY/R-3MY/-/raw/master/icons/linkedin.png){: height="28px" width="28"}&nbsp;&nbsp;&nbsp;&nbsp;![gitlab](https://gitlab.com/R-3MY/R-3MY/-/raw/master/icons/github.png){: height="28px" width="28"}&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### Tools:
 <img align="left" alt="AWS" width="26px" src="https://gitlab.com/R-3MY/R-3MY/-/raw/master/icons/aws.png" />
+&nbsp;
 <img align="left" alt="Azure" width="26px" src="https://gitlab.com/R-3MY/R-3MY/-/raw/master/icons/azure.png" />
+&nbsp; 
 <img align="left" alt="Docker" width="26px" src="https://gitlab.com/R-3MY/R-3MY/-/raw/master/icons/docker.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://gitlab.com/R-3MY/R-3MY/-/raw/master/icons/vscode.png" />
 <img align="left" alt="XCode" width="26px" src="https://gitlab.com/R-3MY/R-3MY/-/raw/master/icons/xcode.png" />
