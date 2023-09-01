@@ -1,5 +1,7 @@
 ### Hi there, I'm Rémy BOULAY <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<img align="left" src="https://gitlab.com/R-3MY/R-3MY/-/raw/master/finalv2.svg" />
+
 - 🔭 I’m currently working at MotorsGate Orléans 💻📍
 - 🌱 I’m currently learning everything related to web and mobile development 📱👨‍💻
 - 💬 Ask me anything [on my portfolio](https://remyboulay.fr) or [via email](mailto:remy.boulay@supinfo.com) ❔📫
