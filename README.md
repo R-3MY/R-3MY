@@ -21,12 +21,3 @@
 <img alt="PHP" height="24px" src="https://github.com/R-3MY/R-3MY/blob/master/icons/php.png" />&nbsp;
 <img alt="Docker" height="28px" src="https://github.com/R-3MY/R-3MY/blob/master/icons/docker.png" />
 &nbsp;
-
-## OS & Hardware
-###### <img alt="MSI" height="32px" src="https://github.com/R-3MY/R-3MY/blob/master/icons/msi.png" /> &nbsp;GS66 :  i7-10870h - 32GB - RTX3070 💻
-- <img alt="Windows" height="26px" src="https://github.com/R-3MY/R-3MY/blob/master/icons/windows.png" />&nbsp;Windows 11 & <img alt="MacOS" height="26px" src="https://github.com/R-3MY/R-3MY/blob/master/icons/macos-ventura.png" />&nbsp;MacOS Ventura (db)
--  <img alt="Ubuntu" height="26px" src="https://github.com/R-3MY/R-3MY/blob/master/icons/ubuntu.png" />&nbsp;Ubuntu 20.04 (WSL)
-###### <img alt="Android" height="24px" src="https://github.com/R-3MY/R-3MY/blob/master/icons/android.png" /> &nbsp;OPPO Reno 6 5G - Android 13 📱
-
-###### <img alt="Intel" height="20px" src="https://github.com/R-3MY/R-3MY/blob/master/icons/intel.webp" /> NUC7 :  i3-7300U - 16GB
--  <img alt="Ubuntu" height="26px" src="https://github.com/R-3MY/R-3MY/blob/master/icons/ubuntu.png" />&nbsp;Ubuntu 22.04
